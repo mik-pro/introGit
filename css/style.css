@@ -20,14 +20,14 @@ div{
    color: rgb(17, 16, 16);
    display: flex;
   align-items: center;
-  column-gap: 50px;
+  column-gap: 45px;
  
 }
 .div-1{
     border: 2px dashed rgb(30, 45, 251);
     width: 200px;
     height: 200px;
-   border-radius: 50%;
+   border-radius: 40%;
     background-color: antiquewhite;
    
 
@@ -44,7 +44,7 @@ div{
     border: 2px dashed rgb(30, 45, 251);
     width: 200px;
     height: 200px;
-   border-radius: 50%;
+   border-radius: 40%;
     background-color: antiquewhite;
 
 }
